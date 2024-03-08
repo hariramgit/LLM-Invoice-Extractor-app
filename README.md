@@ -1,6 +1,6 @@
 # LLM-Invoice-Extractor-app
 
-Access the application in your web browser at `https://llm-invoice-extractor-app-bchka2hyphgc9zocugkuij.streamlit.app/`.
+Access the application in your web browser at `https://multi-language-invoice-extractor.streamlit.app/`.
 
 ## Contributing
 
